@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/0LBxmz4SZk4AAAAd/baji-keisuke-tokyo-revengers.gif" width="600" alt="Baji Keisuke">
   
-  <h1>👋 Olá, eu sou a Manu!</h1>
+  <h1>👋 Olá, eu sou a Keisu-Manu!</h1>
   <p><i>"Assim como o Baji protegeu a fundação da Toman, eu estou construindo a base do meu futuro na tecnologia com foco e resiliência."</i></p>
 </div>
 
