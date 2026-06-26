@@ -1,6 +1,5 @@
+
 # Sobre mim
-
-
 - 👋 Olá me chamo Manuela, sou aluno da rede Estadual do Paraná.
 - 👀 Estou interessado em aprender novas linguagens de programação e aprimorar o conhecimento na área.
 - 🌱 Atualmente estou cursando
@@ -16,3 +15,6 @@ Qualquer dúvida entre em contato
 <a href="mailto:manuela.gomes.santos@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
 ![](https://media1.tenor.com/m/44UZ4D4qzKIAAAAC/keisuke-baji-baji-keisuke.gif)
+![](https://media1.tenor.com/m/0LBxmz4SZk4AAAAd/baji-keisuke-tokyo-revengers.gif
+![](https://media1.tenor.com/m/t0gHz2jE23wAAAAd/tokyo-revengers-keisuke.gif)
+![](https://media1.tenor.com/m/3i92kAFjlQwAAAAC/mikey.gif)
