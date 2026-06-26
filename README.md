@@ -17,4 +17,3 @@ Qualquer dúvida entre em contato
 ![](https://media1.tenor.com/m/44UZ4D4qzKIAAAAC/keisuke-baji-baji-keisuke.gif)
 ![](https://media1.tenor.com/m/0LBxmz4SZk4AAAAd/baji-keisuke-tokyo-revengers.gif
 ![](https://media1.tenor.com/m/t0gHz2jE23wAAAAd/tokyo-revengers-keisuke.gif)
-![](https://media1.tenor.com/m/3i92kAFjlQwAAAAC/mikey.gif)
